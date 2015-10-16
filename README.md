@@ -1,4 +1,4 @@
-# PreTex
+# PreTeX
 
 Light markup to generate LaTeX code for beamer presentations. 
 
