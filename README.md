@@ -5,7 +5,7 @@ Light markup to generate LaTeX code for beamer presentations.
 Usage:
 
 ```
-./pretex.py < code > op.tex
+./pretex.py < code > output.tex
 ```
 
-See `example` for more.
+See `example` in the example folder for, well, an example.
