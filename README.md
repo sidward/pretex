@@ -1,6 +1,6 @@
 # PreTex
 
-Light markup to generate LaTeX code for a presentation. 
+Light markup to generate LaTeX code for beamer presentations. 
 
 Usage:
 
