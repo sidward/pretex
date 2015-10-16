@@ -1,0 +1,33 @@
+theme:: Berkeley
+
+title:: This is a test presentation.
+author:: Sid
+date:: 19 January 2038
+
+sec:: This is the first section
+
+    subsec:: This is a subsection.
+        slide:: This is a title.
+            txt:: This is some text.
+            txt:: This is some more text.
+            txt:: \LaTeX?
+            box:: Title. This is some boxed text. First word will be the box title.
+        slide:: This is another title.
+            txt:: Picture
+            img:: octocat.png
+            txt:: More words!
+
+    subsec:: Math!
+        slide:: Another slide title!
+            txt:: LaTeX $\frac{1}{2}$.
+            box:: Theorem. $$e^{i \pi} = -1$$
+
+sec:: This is the second section.
+    
+    slide:: Wow!
+        txt:: This is awesome!
+
+sec:: This is the third section.
+    
+    slide:: Do you think this is awesome?
+        txt:: I think you should use this.
